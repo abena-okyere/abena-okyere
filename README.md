@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Abena, a software developer and IT Support technician based in UK.
+
+I mostly work on full stack projects - frontend, backend, APIs, database - the whole works!
+
+I also have IT Support experience from internships and placement year programs.
+
+On this page, I will be uploading some projects, experiments and things I am currently working on.
 <!--
 **abena-okyere/abena-okyere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
